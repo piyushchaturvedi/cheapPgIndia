@@ -1,0 +1,7 @@
+9999999999s:108:".city-anchor:hover{
+    color:#40a2a5;
+    text-decoration:none;
+}
+.city-anchor{
+    font-size:18px;
+}";
